@@ -1,6 +1,3 @@
 THIS IS BAD NOAH
-<<<<<<< HEAD
 THIS IS BAD NOAH
 THIS IS BAD NOAH
-=======
->>>>>>> parent of a6d2867 (Update Xenoblade.txt)
